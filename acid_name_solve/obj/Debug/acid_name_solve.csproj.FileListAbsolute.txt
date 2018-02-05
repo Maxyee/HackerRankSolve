@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\acid_name_solve\acid_name_solve\bin\Debug\acid_name_solve.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\acid_name_solve\acid_name_solve\obj\Debug\acid_name_solve.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\acid_name_solve\acid_name_solve\bin\Debug\acid_name_solve.exe
+c:\users\mohon\documents\visual studio 2013\Projects\acid_name_solve\acid_name_solve\bin\Debug\acid_name_solve.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\acid_name_solve\acid_name_solve\obj\Debug\acid_name_solve.exe
+c:\users\mohon\documents\visual studio 2013\Projects\acid_name_solve\acid_name_solve\obj\Debug\acid_name_solve.pdb
