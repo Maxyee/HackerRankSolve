@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\IceCreamparlor\IceCreamparlor\bin\Debug\IceCreamparlor.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\IceCreamparlor\IceCreamparlor\bin\Debug\IceCreamparlor.exe
+c:\users\mohon\documents\visual studio 2013\Projects\IceCreamparlor\IceCreamparlor\bin\Debug\IceCreamparlor.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\IceCreamparlor\IceCreamparlor\obj\Debug\IceCreamparlor.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\IceCreamparlor\IceCreamparlor\obj\Debug\IceCreamparlor.exe
+c:\users\mohon\documents\visual studio 2013\Projects\IceCreamparlor\IceCreamparlor\obj\Debug\IceCreamparlor.pdb

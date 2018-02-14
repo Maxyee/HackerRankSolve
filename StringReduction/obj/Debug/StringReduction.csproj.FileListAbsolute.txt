@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\StringReduction\StringReduction\bin\Debug\StringReduction.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\StringReduction\StringReduction\bin\Debug\StringReduction.exe
+c:\users\mohon\documents\visual studio 2013\Projects\StringReduction\StringReduction\bin\Debug\StringReduction.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\StringReduction\StringReduction\obj\Debug\StringReduction.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\StringReduction\StringReduction\obj\Debug\StringReduction.exe
+c:\users\mohon\documents\visual studio 2013\Projects\StringReduction\StringReduction\obj\Debug\StringReduction.pdb

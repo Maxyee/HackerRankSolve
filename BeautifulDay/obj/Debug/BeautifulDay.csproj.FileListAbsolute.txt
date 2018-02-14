@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\BeautifulDay\BeautifulDay\bin\Debug\BeautifulDay.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\BeautifulDay\BeautifulDay\bin\Debug\BeautifulDay.exe
+c:\users\mohon\documents\visual studio 2013\Projects\BeautifulDay\BeautifulDay\bin\Debug\BeautifulDay.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\BeautifulDay\BeautifulDay\obj\Debug\BeautifulDay.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\BeautifulDay\BeautifulDay\obj\Debug\BeautifulDay.exe
+c:\users\mohon\documents\visual studio 2013\Projects\BeautifulDay\BeautifulDay\obj\Debug\BeautifulDay.pdb

@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\TypeConvention\TypeConvention\bin\Debug\TypeConvention.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\TypeConvention\TypeConvention\bin\Debug\TypeConvention.exe
+c:\users\mohon\documents\visual studio 2013\Projects\TypeConvention\TypeConvention\bin\Debug\TypeConvention.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\TypeConvention\TypeConvention\obj\Debug\TypeConvention.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\TypeConvention\TypeConvention\obj\Debug\TypeConvention.exe
+c:\users\mohon\documents\visual studio 2013\Projects\TypeConvention\TypeConvention\obj\Debug\TypeConvention.pdb

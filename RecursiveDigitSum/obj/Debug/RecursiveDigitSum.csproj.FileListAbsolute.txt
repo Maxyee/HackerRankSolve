@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\RecursiveDigitSum\RecursiveDigitSum\bin\Debug\RecursiveDigitSum.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\RecursiveDigitSum\RecursiveDigitSum\bin\Debug\RecursiveDigitSum.exe
+c:\users\mohon\documents\visual studio 2013\Projects\RecursiveDigitSum\RecursiveDigitSum\bin\Debug\RecursiveDigitSum.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\RecursiveDigitSum\RecursiveDigitSum\obj\Debug\RecursiveDigitSum.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\RecursiveDigitSum\RecursiveDigitSum\obj\Debug\RecursiveDigitSum.exe
+c:\users\mohon\documents\visual studio 2013\Projects\RecursiveDigitSum\RecursiveDigitSum\obj\Debug\RecursiveDigitSum.pdb
