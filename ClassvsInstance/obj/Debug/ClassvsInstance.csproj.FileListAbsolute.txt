@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\ClassvsInstance\ClassvsInstance\bin\Debug\ClassvsInstance.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\ClassvsInstance\ClassvsInstance\bin\Debug\ClassvsInstance.exe
+c:\users\mohon\documents\visual studio 2013\Projects\ClassvsInstance\ClassvsInstance\bin\Debug\ClassvsInstance.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\ClassvsInstance\ClassvsInstance\obj\Debug\ClassvsInstance.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\ClassvsInstance\ClassvsInstance\obj\Debug\ClassvsInstance.exe
+c:\users\mohon\documents\visual studio 2013\Projects\ClassvsInstance\ClassvsInstance\obj\Debug\ClassvsInstance.pdb
