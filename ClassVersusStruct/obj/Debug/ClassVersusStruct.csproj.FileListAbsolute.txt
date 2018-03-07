@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\ClassVersusStruct\ClassVersusStruct\bin\Debug\ClassVersusStruct.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\ClassVersusStruct\ClassVersusStruct\bin\Debug\ClassVersusStruct.exe
+c:\users\mohon\documents\visual studio 2013\Projects\ClassVersusStruct\ClassVersusStruct\bin\Debug\ClassVersusStruct.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\ClassVersusStruct\ClassVersusStruct\obj\Debug\ClassVersusStruct.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\ClassVersusStruct\ClassVersusStruct\obj\Debug\ClassVersusStruct.exe
+c:\users\mohon\documents\visual studio 2013\Projects\ClassVersusStruct\ClassVersusStruct\obj\Debug\ClassVersusStruct.pdb

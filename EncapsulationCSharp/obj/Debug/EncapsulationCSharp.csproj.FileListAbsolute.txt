@@ -1,0 +1,5 @@
+c:\users\mohon\documents\visual studio 2013\Projects\EncapsulationCSharp\EncapsulationCSharp\bin\Debug\EncapsulationCSharp.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\EncapsulationCSharp\EncapsulationCSharp\bin\Debug\EncapsulationCSharp.exe
+c:\users\mohon\documents\visual studio 2013\Projects\EncapsulationCSharp\EncapsulationCSharp\bin\Debug\EncapsulationCSharp.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\EncapsulationCSharp\EncapsulationCSharp\obj\Debug\EncapsulationCSharp.exe
+c:\users\mohon\documents\visual studio 2013\Projects\EncapsulationCSharp\EncapsulationCSharp\obj\Debug\EncapsulationCSharp.pdb
