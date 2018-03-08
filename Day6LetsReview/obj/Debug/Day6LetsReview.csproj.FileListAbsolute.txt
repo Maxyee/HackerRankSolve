@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\Day6LetsReview\Day6LetsReview\bin\Debug\Day6LetsReview.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\Day6LetsReview\Day6LetsReview\bin\Debug\Day6LetsReview.exe
+c:\users\mohon\documents\visual studio 2013\Projects\Day6LetsReview\Day6LetsReview\bin\Debug\Day6LetsReview.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\Day6LetsReview\Day6LetsReview\obj\Debug\Day6LetsReview.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\Day6LetsReview\Day6LetsReview\obj\Debug\Day6LetsReview.exe
+c:\users\mohon\documents\visual studio 2013\Projects\Day6LetsReview\Day6LetsReview\obj\Debug\Day6LetsReview.pdb
