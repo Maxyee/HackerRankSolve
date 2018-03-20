@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\CompareTheTriple\CompareTheTriple\bin\Debug\CompareTheTriple.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\CompareTheTriple\CompareTheTriple\bin\Debug\CompareTheTriple.exe
+c:\users\mohon\documents\visual studio 2013\Projects\CompareTheTriple\CompareTheTriple\bin\Debug\CompareTheTriple.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\CompareTheTriple\CompareTheTriple\obj\Debug\CompareTheTriple.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\CompareTheTriple\CompareTheTriple\obj\Debug\CompareTheTriple.exe
+c:\users\mohon\documents\visual studio 2013\Projects\CompareTheTriple\CompareTheTriple\obj\Debug\CompareTheTriple.pdb
