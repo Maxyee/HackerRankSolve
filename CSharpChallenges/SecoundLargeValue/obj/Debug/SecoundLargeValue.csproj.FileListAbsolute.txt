@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\bin\Debug\SecoundLargeValue.exe.config
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\bin\Debug\SecoundLargeValue.exe
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\bin\Debug\SecoundLargeValue.pdb
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\obj\Debug\SecoundLargeValue.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\obj\Debug\SecoundLargeValue.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\obj\Debug\SecoundLargeValue.exe
+C:\Users\Mohon\source\repos\SecoundLargeValue\SecoundLargeValue\obj\Debug\SecoundLargeValue.pdb
